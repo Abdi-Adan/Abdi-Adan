@@ -1,5 +1,6 @@
 ### Hi there 👋
 #### 👯 I’m looking to collaborate on full-stack web projects, if you're intrested, reach out, :)
+![Visitor Count](https://profile-counter.glitch.me/abdi-adan/count.svg)
 
 <!--
 **Abdi-Adan/Abdi-Adan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
