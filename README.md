@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Abdi Adan</h1>
+<h2 align="center">Hi 👋, I'm Abdi Adan</h2>
 <h3 align="center">Software Developer</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=abdi-adan alt=abdi-adan/> </p>
 
-- 💬 Ask me about **django, flutter, web-development**
+- 💬 Ask me about **Full Stack Development, Django, Flutter and moblie development**
 
 - 📫 How to reach me **adanabdi036@gmail.com**
 
