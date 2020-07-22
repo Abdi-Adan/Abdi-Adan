@@ -7,7 +7,7 @@
 <p align="center">🦾 How to reach me <strong>adanabdi036@gmail.com</strong></p>
 
 <p align='center'>
- <a href="https://github.com/abdi-adan"><img src="https://github-contribution-stats.vercel.app/api/?username=abdi-adan" alt="Contribution Stats"></a>
+ <img src=https://github-readme-stats.vercel.app/api?username=abdi-adan&show_icons=true alt=abdi-adan />
 </p>
 
 
