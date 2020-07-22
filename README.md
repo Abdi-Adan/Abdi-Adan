@@ -2,9 +2,9 @@
 <p align="center"><samp>Software Developer.</samp></p>
 <p align="center"><samp> <img src=https://komarev.com/ghpvc/?username=abdi-adan alt=abdi-adan/>.</samp> </p>
 
-<p align="center">💬 Ask me about <strong>Full Stack Development, Django, Flutter and moblie development</strong></p>
+<p align="center"><samp>💬 Ask me about <strong>Full Stack Development, Django, Flutter and moblie development</strong></samp></p>
 
-<p align="center">🦾 How to reach me <strong>adanabdi036@gmail.com</strong></p>
+<p align="center"><samp>🦾 How to reach me <strong>adanabdi036@gmail.com</strong></samp></p>
 
 <p align='center'>
  <img src=https://github-readme-stats.vercel.app/api?username=abdi-adan&show_icons=true alt=abdi-adan />
