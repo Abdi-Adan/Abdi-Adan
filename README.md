@@ -1,5 +1,5 @@
 <h2 align="center" class="text-purple"><samp><strong>Hi 👋, I'm Abdi Adan</strong></samp></h2>
-<p align="center"><samp>Software Developer.</samp></p>
+<p align="center"><samp><strong>Software Developer.</strong></samp></p>
 <p align="center"><samp> <img src=https://komarev.com/ghpvc/?username=abdi-adan alt=abdi-adan/>.</samp> </p>
 
 <p align="center"><samp>💬 Ask me about <strong>Full Stack Development, Django, Flutter and moblie development</strong></samp></p>
