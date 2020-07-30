@@ -9,7 +9,7 @@
 </p>
 
 <p align='center'>
- <img src=https://github-readme-stats.vercel.app/api?username=abdi-adan&show_icons=true&count_private=true alt=abdi-adan />
+ <img src=https://github-readme-stats.vercel.app/api?username=abdi-adan&show_icons=true&count_private=true&theme=radical alt=abdi-adan />
 </p>
 
 
