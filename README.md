@@ -12,7 +12,7 @@
  <img src=https://github-readme-stats.vercel.app/api?username=abdi-adan&show_icons=true&count_private=true&theme=algolia alt=abdi-adan />
 </p>
 
-[![Somi Card](https://github-readme-stats.vercel.app/api/pin/?username=abdi-adan&repo=somi&show_icons=true)](https://github.com/Abdi-Adan/Somi)
+[![Somi Card](https://github-readme-stats.vercel.app/api/pin/?username=abdi-adan&repo=somi&theme=algolia)](https://github.com/Abdi-Adan/Somi)
 
 
 <p align="center">
