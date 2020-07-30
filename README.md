@@ -27,8 +27,14 @@
  <a href="https://github.com/Abdi-Adan/RenalCare">
   <img src=https://github-readme-stats.vercel.app/api/pin/?username=abdi-adan&repo=RenalCare&theme=algolia&show_owner=true&icon_color=f86b11 />
  </a>
-  <a href="https://github.com/Abdi-Adan/ChezaSafe-covid-19-app-">
+ <a href="https://github.com/Abdi-Adan/ChezaSafe-covid-19-app-">
   <img src=https://github-readme-stats.vercel.app/api/pin/?username=abdi-adan&repo=ChezaSafe-covid-19-app-&theme=algolia&show_owner=true&icon_color=f86b11 />
+ </a>
+  <a href="https://github.com/Abdi-Adan/Django-User-App">
+  <img src=https://github-readme-stats.vercel.app/api/pin/?username=abdi-adan&repo=Django-User-App&theme=algolia&show_owner=true&icon_color=f86b11 />
+ </a>
+  <a href="https://github.com/Abdi-Adan/Django-Sandbox">
+  <img src=https://github-readme-stats.vercel.app/api/pin/?username=abdi-adan&repo=Django-Sandbox&theme=algolia&show_owner=true&icon_color=f86b11 />
  </a>
 </div>
 
