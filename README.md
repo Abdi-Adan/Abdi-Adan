@@ -4,11 +4,12 @@
 
 
 
-<p align='center'>
- <img src=https://github-readme-stats.vercel.app/api?username=abdi-adan&show_icons=true&count_private=true&theme=algolia alt=abdi-adan />
-</p>
+<div align='center'>
+ <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=abdi-adan&layout=compact&theme=algolia&hide=css />
+ <img src=https://github-readme-stats.vercel.app/api?username=abdi-adan&show_icons=true&count_private=true&theme=algolia&hide=prs,contribs alt=abdi-adan />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdi-adan)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Somi Card](https://github-readme-stats.vercel.app/api/pin/?username=abdi-adan&repo=somi&theme=algolia&show_owner=true)](https://github.com/Abdi-Adan/Somi)
 
 
