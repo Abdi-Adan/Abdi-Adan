@@ -12,6 +12,8 @@
  <img src=https://github-readme-stats.vercel.app/api?username=abdi-adan&show_icons=true&count_private=true&theme=algolia alt=abdi-adan />
 </p>
 
+[![Somi Card](https://github-readme-stats.vercel.app/api/pin/?username=abdi-adan&repo=somi)](https://github.com/Abdi-Adan/Somi)
+
 
 <p align="center">
 <a href=https://dev.to/@abdiadan target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="@abdiadan" height="30" width="30" /></a>
