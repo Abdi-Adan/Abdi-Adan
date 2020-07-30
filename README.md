@@ -9,7 +9,7 @@
  <img src=https://github-readme-stats.vercel.app/api?username=abdi-adan&show_icons=true&count_private=true&theme=algolia&hide=prs,contribs&icon_color=f86b11 alt=abdi-adan />
 </div>
 
- 
+<h2 align="center" class="text-purple"><samp>Some of my pinned Repositories</samp></h2>
 <div align=center>
  <img src=https://github-readme-stats.vercel.app/api/pin/?username=abdi-adan&repo=somi&theme=algolia&show_owner=true&icon_color=f86b11 />
  <img src=https://github-readme-stats.vercel.app/api/pin/?username=abdi-adan&repo=somi&theme=algolia&show_owner=true&icon_color=f86b11 />
