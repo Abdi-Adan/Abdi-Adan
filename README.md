@@ -9,7 +9,7 @@
  <img src=https://github-readme-stats.vercel.app/api?username=abdi-adan&show_icons=true&count_private=true&theme=algolia&hide=prs,contribs alt=abdi-adan align="right" />
 </div>
 
-<div align='center'>
+<div>
  <img src=https://github-readme-stats.vercel.app/api/pin/?username=abdi-adan&repo=somi&theme=algolia&show_owner=true />
 </div>
 
