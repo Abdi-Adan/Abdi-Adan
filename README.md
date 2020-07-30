@@ -19,7 +19,7 @@
  <a href="https://github.com/Abdi-Adan/Somi">
   <img src=https://github-readme-stats.vercel.app/api/pin/?username=abdi-adan&repo=somi&theme=algolia&show_owner=true&icon_color=f86b11 />
  </a>
- <a href="https://github.com/Abdi-Adan/Order-Management-Sytem">
+ <a href="https://github.com/Abdi-Adan/Order-Management-System">
   <img src=https://github-readme-stats.vercel.app/api/pin/?username=abdi-adan&repo=Order-Management-System&theme=algolia&show_owner=true&icon_color=f86b11 />
  </a>
  <a href="https://github.com/Abdi-Adan/django_boilerplate">
