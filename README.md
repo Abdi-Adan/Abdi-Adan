@@ -2,7 +2,11 @@
 <h4 align="center"><samp><strong>Software Developer.</strong></samp></h4>
 <p align="center"><samp> <img src=https://komarev.com/ghpvc/?username=abdi-adan alt=abdi-adan/></samp> </p>
 
-
+<p align="center">
+<a href=https://dev.to/@abdiadan target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="@abdiadan" height="30" width="30" /></a>
+<a href=https://twitter.com/@abdiada86149808 target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="@abdiada86149808" height="20" width="20" /></a>
+<a href=https://linkedin.com/in/abdi-adan-764564176 target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="abdi-adan-764564176" height="20" width="20" /></a>
+</p>
 
 <div align='center'>
  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=abdi-adan&layout=compact&theme=algolia&hide=css&icon_color=f86b11 />
@@ -38,12 +42,3 @@
  </a>
 </div>
 
-
-
-
-
-<p align="center">
-<a href=https://dev.to/@abdiadan target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="@abdiadan" height="30" width="30" /></a>
-<a href=https://twitter.com/@abdiada86149808 target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="@abdiada86149808" height="20" width="20" /></a>
-<a href=https://linkedin.com/in/abdi-adan-764564176 target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="abdi-adan-764564176" height="20" width="20" /></a>
-</p>
