@@ -2,17 +2,12 @@
 <h4 align="center"><samp><strong>Software Developer.</strong></samp></h4>
 <p align="center"><samp> <img src=https://komarev.com/ghpvc/?username=abdi-adan alt=abdi-adan/></samp> </p>
 
-<p align="center">
- <samp>💬 Ask me about <strong>Full Stack Development, Django, Flutter and moblie development</strong></samp>
- <br>
- <p align="center"><samp>🦾 How to reach me <strong>adanabdi036@gmail.com</strong></samp></p>
-</p>
 
 <p align='center'>
  <img src=https://github-readme-stats.vercel.app/api?username=abdi-adan&show_icons=true&count_private=true&theme=algolia alt=abdi-adan />
 </p>
 
-[![Somi Card](https://github-readme-stats.vercel.app/api/pin/?username=abdi-adan&repo=somi&theme=algolia)](https://github.com/Abdi-Adan/Somi)
+[![Somi Card](https://github-readme-stats.vercel.app/api/pin/?username=abdi-adan&repo=somi&theme=algolia&show_owner=true)](https://github.com/Abdi-Adan/Somi)
 
 
 <p align="center">
