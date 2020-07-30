@@ -14,8 +14,8 @@
 <div align=center>
  <img src=https://github-readme-stats.vercel.app/api/pin/?username=abdi-adan&repo=somi&theme=algolia&show_owner=true&icon_color=f86b11 />
  <img src=https://github-readme-stats.vercel.app/api/pin/?username=abdi-adan&repo=somi&theme=algolia&show_owner=true&icon_color=f86b11 />
- <img src=https://github-readme-stats.vercel.app/api/pin/?username=abdi-adan&repo=somi&theme=algolia&show_owner=true&icon_color=f86b11 />
- <img src=https://github-readme-stats.vercel.app/api/pin/?username=abdi-adan&repo=somi&theme=algolia&show_owner=true&icon_color=f86b11 />
+ <img src=https://github-readme-stats.vercel.app/api/pin/?username=abdi-adan&repo=django_boilerplate&theme=algolia&show_owner=true&icon_color=f86b11 />
+ <img src=https://github-readme-stats.vercel.app/api/pin/?username=abdi-adan&repo=Django-User-App&theme=algolia&show_owner=true&icon_color=f86b11 />
 </div>
 
 
