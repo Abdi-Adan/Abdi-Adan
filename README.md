@@ -9,7 +9,7 @@
 </p>
 
 <div align='center'>
- <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=abdi-adan&layout=compact&theme=algolia&hide=css&icon_color=f86b11 />
+ <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=abdi-adan&layout=compact&theme=algolia&hide=html&icon_color=f86b11 />
  <img src=https://github-readme-stats.vercel.app/api?username=abdi-adan&show_icons=true&count_private=true&theme=algolia&hide=prs,contribs&icon_color=f86b11 alt=abdi-adan />
 </div>
 
