@@ -6,7 +6,7 @@
 
 <div align='center'>
  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=abdi-adan&layout=compact&theme=algolia&hide=css align="left" />
- <img src=https://github-readme-stats.vercel.app/api?username=abdi-adan&show_icons=true&count_private=true&theme=algolia&hide=prs,contribs alt=abdi-adan align="right" />
+ <img src=https://github-readme-stats.vercel.app/api?username=abdi-adan&show_icons=true&count_private=true&theme=algolia&hide=prs,contribs alt=abdi-adan />
 </div>
 
 <div>
