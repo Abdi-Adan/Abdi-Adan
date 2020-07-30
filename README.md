@@ -13,7 +13,7 @@
  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=abdi-adan&layout=compact&theme=algolia&hide=html&icon_color=f86b11 />
 </div>
 
-<h3 align="center" class="text-purple"><samp>Some Of My Pinned Repositories</samp></h3>
+<h3 align="center" class="text-purple"><samp>Pinned Repositories</samp></h3>
 
 <div align=center>
  <a href="https://github.com/Abdi-Adan/Somi">
