@@ -3,11 +3,14 @@
 <p align="center"><samp> <img src=https://komarev.com/ghpvc/?username=abdi-adan alt=abdi-adan/></samp> </p>
 
 
+
 <p align='center'>
  <img src=https://github-readme-stats.vercel.app/api?username=abdi-adan&show_icons=true&count_private=true&theme=algolia alt=abdi-adan />
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdi-adan)](https://github.com/anuraghazra/github-readme-stats)
 [![Somi Card](https://github-readme-stats.vercel.app/api/pin/?username=abdi-adan&repo=somi&theme=algolia&show_owner=true)](https://github.com/Abdi-Adan/Somi)
+
 
 
 <p align="center">
