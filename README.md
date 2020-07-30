@@ -9,12 +9,20 @@
  <img src=https://github-readme-stats.vercel.app/api?username=abdi-adan&show_icons=true&count_private=true&theme=algolia&hide=prs,contribs alt=abdi-adan />
 </div>
 
-<div align=center>
- <img src=https://github-readme-stats.vercel.app/api/pin/?username=abdi-adan&repo=somi&theme=algolia&show_owner=true />
- <img src=https://github-readme-stats.vercel.app/api/pin/?username=abdi-adan&repo=somi&theme=algolia&show_owner=true />
- <img src=https://github-readme-stats.vercel.app/api/pin/?username=abdi-adan&repo=somi&theme=algolia&show_owner=true />
- <img src=https://github-readme-stats.vercel.app/api/pin/?username=abdi-adan&repo=somi&theme=algolia&show_owner=true />
- </div>
+ 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abdi-adan&repo=somi&theme=algolia&show_owner=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abdi-adan&repo=somi&theme=algolia&show_owner=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abdi-adan&repo=somi&theme=algolia&show_owner=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abdi-adan&repo=somi&theme=algolia&show_owner=true" />
+</a>
+
 
 
 
