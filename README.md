@@ -21,8 +21,8 @@
   <a href="https://github.com/Abdi-Adan/django_boilerplate">
   <img src=https://github-readme-stats.vercel.app/api/pin/?username=abdi-adan&repo=django_boilerplate&theme=algolia&show_owner=true&icon_color=f86b11 />
  </a>
-  <a href="https://github.com/Abdi-Adan/Abdi-Adan.github.io">
-  <img src=https://github-readme-stats.vercel.app/api/pin/?username=abdi-adan&repo=Abdi-Adan.github.io&theme=algolia&show_owner=true&icon_color=f86b11 />
+  <a href="https://github.com/Abdi-Adan/Tender-Management-System">
+  <img src=https://github-readme-stats.vercel.app/api/pin/?username=abdi-adan&repo=Tender-Management-System&theme=algolia&show_owner=true&icon_color=f86b11 />
  </a>
 </div>
 
