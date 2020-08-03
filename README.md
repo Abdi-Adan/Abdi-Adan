@@ -13,32 +13,5 @@
  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=abdi-adan&layout=compact&theme=algolia&hide=html&icon_color=f86b11 />
 </div>
 
-<h3 align="center" class="text-purple"><samp>Pinned Repositories</samp></h3>
 
-<div align=center>
- <a href="https://github.com/Abdi-Adan/Somi">
-  <img src=https://github-readme-stats.vercel.app/api/pin/?username=abdi-adan&repo=somi&theme=algolia&show_owner=true&icon_color=f86b11 />
- </a>
-  <a href="https://github.com/Abdi-Adan/RenalCare">
-  <img src=https://github-readme-stats.vercel.app/api/pin/?username=abdi-adan&repo=RenalCare&theme=algolia&show_owner=true&icon_color=f86b11 />
- </a>
-  <a href="https://github.com/Abdi-Adan/django_boilerplate">
-  <img src=https://github-readme-stats.vercel.app/api/pin/?username=abdi-adan&repo=django_boilerplate&theme=algolia&show_owner=true&icon_color=f86b11 />
- </a>
- <a href="https://github.com/Abdi-Adan/Order-Management-System">
-  <img src=https://github-readme-stats.vercel.app/api/pin/?username=abdi-adan&repo=Order-Management-System&theme=algolia&show_owner=true&icon_color=f86b11 />
- </a>
-  <a href="https://github.com/Abdi-Adan/ChezaSafe-covid-19-app-">
-  <img src=https://github-readme-stats.vercel.app/api/pin/?username=abdi-adan&repo=ChezaSafe-covid-19-app-&theme=algolia&show_owner=true&icon_color=f86b11 />
- </a>
- <a href="https://github.com/Abdi-Adan/Tender-Management-System">
-  <img src=https://github-readme-stats.vercel.app/api/pin/?username=abdi-adan&repo=Tender-Management-System&theme=algolia&show_owner=true&icon_color=f86b11 />
- </a>
-  <a href="https://github.com/Abdi-Adan/Django-User-App">
-  <img src=https://github-readme-stats.vercel.app/api/pin/?username=abdi-adan&repo=Django-User-App&theme=algolia&show_owner=true&icon_color=f86b11 />
- </a>
-  <a href="https://github.com/Abdi-Adan/Django-Sandbox">
-  <img src=https://github-readme-stats.vercel.app/api/pin/?username=abdi-adan&repo=Django-Sandbox&theme=algolia&show_owner=true&icon_color=f86b11 />
- </a>
-</div>
 
