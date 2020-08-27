@@ -4,6 +4,9 @@
  <a href=https://cradle-home.herokuapp.com/ target="_blank"><img align="center" src=https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge alt="@abdiadan" /></a>
 </h4>
 <p align="center"><samp> <img src=https://komarev.com/ghpvc/?username=abdi-adan alt=abdi-adan/></samp> </p>
+<h4 align="center">
+ <a href=https://cradle-home.herokuapp.com/ target="_blank"><img align="center" src=https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg alt="@abdiadan" /></a>
+</h4>
 
 <p align="center">
 <a href=https://dev.to/@abdiadan target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="@abdiadan" height="30" width="30" /></a>
