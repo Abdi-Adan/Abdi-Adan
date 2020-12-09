@@ -2,7 +2,6 @@
 <h3 align="center"><samp><strong>Software Developer.</strong></samp></h3>
 <h4 align="center">
  <a href=https://cradle-home.herokuapp.com/ target="_blank"><img align="center" src=https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge alt="Portfolio" />  </a>
- <a href=http://intrepidsys.herokuapp.com/ target="_blank"><img align="center" src=https://img.shields.io/badge/Startup-Website-informational?style=for-the-badge alt="intrepidSYS" />  </a>
  
 </h4>
 <p align="center"><samp> <img src=https://komarev.com/ghpvc/?username=abdi-adan alt=abdi-adan/></samp> </p>
