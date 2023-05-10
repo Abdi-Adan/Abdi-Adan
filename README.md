@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <strong>Now playing on Spotify</strong>
+</p>
+
+<p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=31heubsrtx4xask54pbd63wwbaam&redirect=true">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31heubsrtx4xask54pbd63wwbaam&cover_image=true&theme=natemoo-re&show_icons=true&icon_color=f47f07&bg_color=121212&hide_border=true" alt="Spotify" />
   </a>
